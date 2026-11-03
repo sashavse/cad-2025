@@ -65,6 +65,6 @@ public class App {
 
         System.out.println("Клиент завершил свою работу");
 
-
+///5
     }
 }
